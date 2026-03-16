@@ -1,0 +1,13 @@
+{
+  "name": "minimal-proxy",
+  "version": "1.0.0",
+  "description": "Minimal HTTP/HTTPS proxy server (Node.js)",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
